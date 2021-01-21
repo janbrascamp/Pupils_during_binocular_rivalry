@@ -1,0 +1,15 @@
+Run scripts in this order for eye analysis:
+
+1_rivalry_task_GT0920py		
+
+1a_add_instantaneous_switch_distinction_passive_replay_AND_probe_present_or_not_passive_rivalry.py
+
+1c_process_concatenated_gilles.py
+
+1d_process_concatenated_gilles_plus_covariates.py
+
+---------------------
+
+Run this script for independent behavioral analysis:
+
+4_behavioral_only.py
